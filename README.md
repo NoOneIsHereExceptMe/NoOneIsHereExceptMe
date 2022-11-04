@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackOriander
-- 👀 I’m interested in playing and making games
-- 🌱 I’m currently learning python
+- 👀 I’m interested in playing genshin impact and making games, small apps, etc.
+- 🌱 I’m currently learning python and C.
 - 📫 My email is aritramalik0@gmail.com
 
 <!---
