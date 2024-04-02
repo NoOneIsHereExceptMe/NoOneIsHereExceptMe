@@ -17,12 +17,12 @@ He used to make some awesome projects on his own, and I used to just watch with 
 - Tools: I usually use online AI tools like Google Bard or OpenAI's ChatGPT for learning small concepts that I can't understand on certain websites.
 
 🎨 **Hobbies:**
-- Coding and building cool projects
-- Drawing human emotions
-- Exploring new technologies
-- Learning Japanese
-- Reading tech or gaming news
-- Playing [Honkai Star Rail by Hoyoverse](https://hsr.hoyoverse.com/en-us/home)
+- Coding and building cool projects.
+- Drawing if I'm bored.
+- Exploring new technologies.
+- Learning Japanese.
+- Reading tech or gaming news.
+- Playing [Honkai Star Rail by Hoyoverse](https://hsr.hoyoverse.com/en-us/home).
 
 👤 **Usernames:**
 - GitHub: @[JackOriander](https://github.com/JackOriander)
