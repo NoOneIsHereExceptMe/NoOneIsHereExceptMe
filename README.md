@@ -38,6 +38,6 @@ He used to make some awesome projects on his own, and I used to just watch with 
 
 📈 **GitHub Stats:**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackOriander&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoOneIsHereExceptMe&show_icons=true&theme=radical)
 
 Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
