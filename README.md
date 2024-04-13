@@ -11,7 +11,7 @@ He used to make some awesome projects on his own, and I used to just watch with 
 - 🎓 Currently preparing for several entrance exams. Wish me luck.
 
 🌱 **Open Source Contributions:**
-- 🛠️ Currently working on a new [Esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) called AsciiScript.
+- 🛠️ Worked on a new [Esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) called AsciiScript.
 
 🔧 **Tech Stack:**
 - Languages: Python[Preferred], C, C++, HTML, CSS, JS[A little bit]
