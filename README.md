@@ -26,7 +26,7 @@ He used to make some awesome projects on his own, and I used to just watch with 
 - Playing [Honkai Star Rail by Hoyoverse](https://hsr.hoyoverse.com/en-us/home).
 
 👤 **Usernames:**
-- GitHub: @[JackOriander](https://github.com/JackOriander)
+- GitHub: @[NoOneIsHereExceptMe](https://github.com/NoOneIsHereExceptMe)
 - Twitter[Artist Account]: @[ButterMilk504](x.com/ButterMilk504?t=HZnTFVL3GRcwhAhJZXBa4g&s=09)
 - Instagram[Artist Account]: @[butter_milk504](https://www.instagram.com/butter_milk504)
 
