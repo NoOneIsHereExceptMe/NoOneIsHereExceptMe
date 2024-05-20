@@ -7,8 +7,7 @@ He used to make some awesome projects on his own, and I used to just watch with 
 - 💻 I specialize in C[It was in the school curriculum], HTML[It was also in the school curriculum], Python[Self taught], and CSS[Also self taught].
 - 🌐 Exploring the realms of Web development, Artificial Intelligence, and Automation.
 - 📚 Currently learning Python and Web Development.
-- 🎓 I graduated from high school in February, 2024.
-- 🎓 Currently preparing for several entrance exams. Wish me luck.
+- 🎨 Loves to draw.
 
 🌱 **Open Source Contributions:**
 - 🛠️ Worked on a new [Esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) called AsciiScript.
