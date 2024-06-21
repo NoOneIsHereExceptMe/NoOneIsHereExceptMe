@@ -1,6 +1,6 @@
 ### 👋 Hello World! 
 
-I'm @JackOriander, a passionate Python programmer based in India. My journey in the world of coding began with my uncle who was studying in a college at that time.
+I'm @Butter aka NoOneIsHereExceptMe, a passionate Python programmer based in India. My journey in the world of coding began with my uncle who was studying in a college at that time.
 He used to make some awesome projects on his own, and I used to just watch with amazement and excitement. He taught me the basics of logic and some basic C syntax. And now I'm walking in his footsteps. I'm really happy that got to meet my awesome uncle. 
 
 🚀 **About Me:**
@@ -28,6 +28,7 @@ He used to make some awesome projects on his own, and I used to just watch with 
 - GitHub: @[NoOneIsHereExceptMe](https://github.com/NoOneIsHereExceptMe)
 - Twitter[Artist Account]: @[ButterMilk504](x.com/ButterMilk504?t=HZnTFVL3GRcwhAhJZXBa4g&s=09)
 - Instagram[Artist Account]: @[butter_milk504](https://www.instagram.com/butter_milk504)
+- Twitch[Streaming]: [NoOneIsHereExceptMe](https://www.twitch.tv/nooneishereexceptme)
 
 📫 **Get in Touch:**
 - Telegram: @[Nakanishi Akihiro](https://t.me/NakanishiAkihiro)
