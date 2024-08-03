@@ -28,7 +28,7 @@ He used to make some awesome projects on his own, and I used to just watch with 
 - GitHub: @[NoOneIsHereExceptMe](https://github.com/NoOneIsHereExceptMe)
 - Twitter[Artist Account]: @[ButterMilk504](x.com/ButterMilk504?t=HZnTFVL3GRcwhAhJZXBa4g&s=09)
 - Instagram[Artist Account]: @[butter_milk504](https://www.instagram.com/butter_milk504)
-- Twitch[Streaming]: [NoOneIsHereExceptMe](https://www.twitch.tv/nooneishereexceptme)
+- Twitch[Streaming]: [ChompyChoco](https://www.twitch.tv/chompychoco)
 
 📫 **Get in Touch:**
 - Telegram: @[Nakanishi Akihiro](https://t.me/NakanishiAkihiro)
